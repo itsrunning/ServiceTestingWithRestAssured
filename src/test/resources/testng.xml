@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="REST Test Suite">
+     
+<test name="REST Tests">
+        <groups>
+            <run>
+                <include name="rest"/>
+            </run>
+        </groups>
+               
+	    <packages>
+	      <package name="serviceTest.restTests" />
+	   </packages>
+</test>
+</suite>
