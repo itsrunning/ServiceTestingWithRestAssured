@@ -10,7 +10,7 @@
         </groups>
                
 	    <packages>
-	      <package name="serviceTest.restTests" />
+	      <package name="serviceTest.RestTests" />
 	   </packages>
 </test>
 </suite>

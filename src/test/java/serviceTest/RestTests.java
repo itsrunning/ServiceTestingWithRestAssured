@@ -11,7 +11,7 @@ import static io.restassured.RestAssured.given;
 import java.net.HttpURLConnection;
 
 
-public class restTests {
+public class RestTests {
 
     @Test(groups = {"rest"})
     public void getTest() throws Exception {
